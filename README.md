@@ -2,11 +2,13 @@
 
 <img src="assets/sunflower-field.svg" alt="a golden hour sunflower field" width="100%" />
 
-<h1>Ello, I'm Aadhya 🌻</h1>
-
-<i>dse student ~ aspiring data science engineer ~ growing one code at a time</i>
+<img src="assets/hero-title.svg" alt="Ello, I'm Aadhya — dse student, aspiring data science engineer, growing one code at a time" width="100%" />
 
 </div>
+
+<br/>
+
+<img src="assets/crab-strip.svg" alt="" width="100%" />
 
 <br/>
 
@@ -150,7 +152,7 @@ Worked on the engineering side of applied AI — LLMs, agentic AI workflows, and
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adro05&background=FFF9E8&ring=F4A100&fire=F2994A&currStreakLabel=8B5E3C&sideLabels=8B5E3C&currStreakNum=8B5E3C&sideNums=8B5E3C&dates=8B5E3C&border=F4A100&hide_border=false" alt="GitHub streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adro05&background=0D1117&ring=FFB84D&fire=FF7B3E&currStreakLabel=F4A100&sideLabels=F4A100&currStreakNum=FFE9AE&sideNums=FFE9AE&dates=C9A876&border=3A2E1E&hide_border=false" alt="GitHub streak stats" />
 
 <br/><br/>
 
@@ -158,7 +160,7 @@ Worked on the engineering side of applied AI — LLMs, agentic AI workflows, and
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Adro05&label=Garden%20Visitors&color=F4A100&style=flat-square" alt="visitor count" />
+<img src="https://komarev.com/ghpvc/?username=Adro05&label=Garden%20Visitors&color=FF9F1C&style=flat-square" alt="visitor count" />
 
 </div>
 
